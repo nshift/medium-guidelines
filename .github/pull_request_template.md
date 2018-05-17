@@ -5,5 +5,5 @@
 <!-- List the high-level objectives of this pull request. -->
 <!-- Include any relevant context. -->
 
-### Resources :link:
-<!-- Give credits to authors. If you did not contribute to the guidelines based on other's work, remove this section. -->
+### Inspiration :bulb:
+<!-- Give credits to authors. If you did not get inspired by others, remove this section. -->
