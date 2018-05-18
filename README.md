@@ -1,8 +1,8 @@
 # Medium Guidelines
 
-This guidelines are made for people who love writing amazing stories on Medium. As developers, we often miss the opportunity to get benefits from sharing our experiences, knowledge and thinking. 
+These guidelines are made for people who love writing amazing stories on Medium. As developers, we often miss the opportunity to get benefits from sharing our experiences, knowledge and thinking. 
 
-This document intend to be clear, consistent and brief.
+This document intends to be clear, consistent and brief.
 
 ## Table Of Contents
 
