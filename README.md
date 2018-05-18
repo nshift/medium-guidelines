@@ -1,8 +1,10 @@
 # Medium Guidelines
 
-These guidelines are made for people who love writing amazing stories on Medium. As developers, we often miss the opportunity to get benefits from sharing our experiences, knowledge and thinking. 
+These guidelines are made for people who love writing amazing stories on Medium. As developers, we often miss the opportunity to get benefits from sharing our experiences, knowledge and thinking. We created this space to share best practices based on our own experiences to help everyone to be able to get the most out of Medium.
 
-This document intends to be clear, consistent and brief.
+We value experience over information.
+
+This document intends to be clear, consistent and brief. Consider it as our own cheatsheet of Medium.
 
 ## Table Of Contents
 
